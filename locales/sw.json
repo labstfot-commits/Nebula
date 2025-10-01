@@ -1,0 +1,129 @@
+{
+  "seo": {
+    "metaTitle": "Nebula — metaversi ya michezo",
+    "metaDescription": "Tazama. Fundisha. Ishi."
+  },
+  "nav": {
+    "features": "Vipengele",
+    "pricing": "Bei",
+    "download": "Pakua",
+    "community": "Jumuiya",
+    "support": "Msaada",
+    "signin": "Ingia / FTOT ID"
+  },
+  "hero": {
+    "title": "Nebula — Tazama. Fundisha. Ishi.",
+    "subtitle": "Jukwaa la michezo lililounganishwa.",
+    "ctaPrimary": "Pakua",
+    "ctaSecondary": "Angalia mipango",
+    "badges": [
+      "Apple Vision",
+      "Apple TV",
+      "iOS",
+      "Android",
+      "Apple Watch",
+      "Garmin",
+      "Samsung Watch"
+    ]
+  },
+  "what": {
+    "title": "Nebula ni nini",
+    "cards": [
+      {
+        "title": "Tazama",
+        "desc": "Matangazo ya AR/VR."
+      },
+      {
+        "title": "Fundisha",
+        "desc": "Mipango, ufuatiliaji, uchambuzi."
+      },
+      {
+        "title": "Ishi",
+        "desc": "Lishe, kupona, jumuiya."
+      }
+    ]
+  },
+  "features": {
+    "title": "Vipengele",
+    "items": [
+      "Matangazo ya AR/VR",
+      "Mchambuzi wa AI",
+      "Msaidizi wa AI",
+      "Lishe",
+      "Mafunzo",
+      "Jumuiya",
+      "Ujumuishaji",
+      "Ufikiaji"
+    ]
+  },
+  "pricing": {
+    "title": "Bei",
+    "plans": [
+      {
+        "name": "Lite",
+        "price": "990₽"
+      },
+      {
+        "name": "Pro",
+        "price": "2 490₽"
+      },
+      {
+        "name": "Travel",
+        "price": "3 990₽"
+      },
+      {
+        "name": "Elite",
+        "price": "8 990₽"
+      },
+      {
+        "name": "Infinity",
+        "price": "16 990₽"
+      }
+    ],
+    "cta": "Chagua mpango"
+  },
+  "devices": {
+    "title": "Vifaa vinavyoungwa mkono",
+    "items": [
+      "Apple Vision",
+      "Apple TV",
+      "iPhone",
+      "iPad",
+      "Apple Watch",
+      "Garmin",
+      "Samsung Watch",
+      "Android"
+    ]
+  },
+  "ftot": {
+    "title": "FTOT ID",
+    "start": "Chagua njia",
+    "email": "Barua pepe",
+    "phone": "Simu",
+    "or": "au",
+    "oauth": "Endelea na",
+    "continue": "Endelea",
+    "otpTitle": "Uthibitishaji wa msimbo",
+    "passwordTitle": "Unda nywila",
+    "twofaTitle": "Weka 2FA (inapendekezwa)",
+    "doneTitle": "Imekamilika",
+    "submit": "Tuma",
+    "verify": "Thibitisha",
+    "back": "Rudi"
+  },
+  "ecosystem": {
+    "title": "Mfumo wa TFOT Labs"
+  },
+  "footer": {
+    "product": "Bidhaa",
+    "company": "Kampuni",
+    "support": "Msaada",
+    "legal": "Kisheria",
+    "privacy": "Sera ya Faragha",
+    "terms": "Masharti ya Matumizi",
+    "cookies": "Sera ya Vidakuzi",
+    "refund": "Sera ya Marejesho",
+    "a11y": "Taarifa ya Ufikiaji",
+    "copyright": "© {{year}} Nebula — bidhaa ya TFOT Labs. Haki zote zimehifadhiwa."
+  }
+}

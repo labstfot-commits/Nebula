@@ -1,0 +1,129 @@
+{
+  "seo": {
+    "metaTitle": "נבולה — מטאברס ספורט",
+    "metaDescription": "לצפות. להתאמן. לחיות."
+  },
+  "nav": {
+    "features": "יכולות",
+    "pricing": "תמחור",
+    "download": "הורדה",
+    "community": "קהילה",
+    "support": "תמיכה",
+    "signin": "התחברות / FTOT ID"
+  },
+  "hero": {
+    "title": "נבולה — לצפות. להתאמן. לחיות.",
+    "subtitle": "פלטפורמה מאוחדת לספורט.",
+    "ctaPrimary": "הורדה",
+    "ctaSecondary": "צפו בתוכניות",
+    "badges": [
+      "Apple Vision",
+      "Apple TV",
+      "iOS",
+      "Android",
+      "Apple Watch",
+      "Garmin",
+      "Samsung Watch"
+    ]
+  },
+  "what": {
+    "title": "מהי נבולה",
+    "cards": [
+      {
+        "title": "לצפות",
+        "desc": "שידורי AR/VR."
+      },
+      {
+        "title": "להתאמן",
+        "desc": "תוכניות, מעקב, ניתוחים."
+      },
+      {
+        "title": "לחיות",
+        "desc": "תזונה, החלמה, קהילה."
+      }
+    ]
+  },
+  "features": {
+    "title": "יכולות",
+    "items": [
+      "שידורי AR/VR",
+      "שדרן בינה מלאכותית",
+      "עוזר בינה מלאכותית",
+      "תזונה",
+      "אימונים",
+      "קהילה",
+      "אינטגרציות",
+      "נגישות"
+    ]
+  },
+  "pricing": {
+    "title": "תמחור",
+    "plans": [
+      {
+        "name": "Lite",
+        "price": "990₽"
+      },
+      {
+        "name": "Pro",
+        "price": "2 490₽"
+      },
+      {
+        "name": "Travel",
+        "price": "3 990₽"
+      },
+      {
+        "name": "Elite",
+        "price": "8 990₽"
+      },
+      {
+        "name": "Infinity",
+        "price": "16 990₽"
+      }
+    ],
+    "cta": "בחרו תוכנית"
+  },
+  "devices": {
+    "title": "מכשירים נתמכים",
+    "items": [
+      "Apple Vision",
+      "Apple TV",
+      "iPhone",
+      "iPad",
+      "Apple Watch",
+      "Garmin",
+      "Samsung Watch",
+      "Android"
+    ]
+  },
+  "ftot": {
+    "title": "FTOT ID",
+    "start": "בחרו שיטה",
+    "email": "אימייל",
+    "phone": "טלפון",
+    "or": "או",
+    "oauth": "המשך עם",
+    "continue": "המשך",
+    "otpTitle": "אימות קוד",
+    "passwordTitle": "צרו סיסמה",
+    "twofaTitle": "הגדרת 2FA (מומלץ)",
+    "doneTitle": "הסתיים",
+    "submit": "שליחה",
+    "verify": "אימות",
+    "back": "חזרה"
+  },
+  "ecosystem": {
+    "title": "אקוסיסטם TFOT Labs"
+  },
+  "footer": {
+    "product": "מוצר",
+    "company": "חברה",
+    "support": "תמיכה",
+    "legal": "משפטי",
+    "privacy": "מדיניות פרטיות",
+    "terms": "תנאי שימוש",
+    "cookies": "מדיניות קוקיז",
+    "refund": "מדיניות החזרות",
+    "a11y": "הצהרת נגישות",
+    "copyright": "© {{year}} Nebula — מוצר של TFOT Labs. כל הזכויות שמורות."
+  }
+}

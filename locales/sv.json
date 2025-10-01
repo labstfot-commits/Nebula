@@ -1,0 +1,129 @@
+{
+  "seo": {
+    "metaTitle": "Nebula — sportmetavers",
+    "metaDescription": "Titta. Träna. Lev."
+  },
+  "nav": {
+    "features": "Funktioner",
+    "pricing": "Priser",
+    "download": "Ladda ner",
+    "community": "Community",
+    "support": "Support",
+    "signin": "Logga in / FTOT ID"
+  },
+  "hero": {
+    "title": "Nebula — Titta. Träna. Lev.",
+    "subtitle": "En enhetlig plattform för sport.",
+    "ctaPrimary": "Ladda ner",
+    "ctaSecondary": "Se planer",
+    "badges": [
+      "Apple Vision",
+      "Apple TV",
+      "iOS",
+      "Android",
+      "Apple Watch",
+      "Garmin",
+      "Samsung Watch"
+    ]
+  },
+  "what": {
+    "title": "Vad är Nebula",
+    "cards": [
+      {
+        "title": "Titta",
+        "desc": "AR/VR-strömmar."
+      },
+      {
+        "title": "Träna",
+        "desc": "Planer, spårning, analys."
+      },
+      {
+        "title": "Leva",
+        "desc": "Nutrition, återhämtning, community."
+      }
+    ]
+  },
+  "features": {
+    "title": "Funktioner",
+    "items": [
+      "AR/VR-strömmar",
+      "AI-kommentator",
+      "AI-assistent",
+      "Nutrition",
+      "Träning",
+      "Community",
+      "Integrationer",
+      "Tillgänglighet"
+    ]
+  },
+  "pricing": {
+    "title": "Priser",
+    "plans": [
+      {
+        "name": "Lite",
+        "price": "990₽"
+      },
+      {
+        "name": "Pro",
+        "price": "2 490₽"
+      },
+      {
+        "name": "Travel",
+        "price": "3 990₽"
+      },
+      {
+        "name": "Elite",
+        "price": "8 990₽"
+      },
+      {
+        "name": "Infinity",
+        "price": "16 990₽"
+      }
+    ],
+    "cta": "Välj plan"
+  },
+  "devices": {
+    "title": "Stödda enheter",
+    "items": [
+      "Apple Vision",
+      "Apple TV",
+      "iPhone",
+      "iPad",
+      "Apple Watch",
+      "Garmin",
+      "Samsung Watch",
+      "Android"
+    ]
+  },
+  "ftot": {
+    "title": "FTOT ID",
+    "start": "Välj metod",
+    "email": "E-post",
+    "phone": "Telefon",
+    "or": "eller",
+    "oauth": "Fortsätt med",
+    "continue": "Fortsätt",
+    "otpTitle": "Kodverifiering",
+    "passwordTitle": "Skapa lösenord",
+    "twofaTitle": "Ställ in 2FA (rekommenderas)",
+    "doneTitle": "Klart",
+    "submit": "Skicka",
+    "verify": "Verifiera",
+    "back": "Tillbaka"
+  },
+  "ecosystem": {
+    "title": "TFOT Labs ekosystem"
+  },
+  "footer": {
+    "product": "Produkt",
+    "company": "Företag",
+    "support": "Support",
+    "legal": "Juridik",
+    "privacy": "Integritetspolicy",
+    "terms": "Användarvillkor",
+    "cookies": "Cookiepolicy",
+    "refund": "Återbetalningspolicy",
+    "a11y": "Tillgänglighetsredogörelse",
+    "copyright": "© {{year}} Nebula — en produkt från TFOT Labs. Alla rättigheter förbehållna."
+  }
+}

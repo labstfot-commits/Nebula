@@ -1,0 +1,129 @@
+{
+  "seo": {
+    "metaTitle": "نيبولا — ميتافيرس الرياضة",
+    "metaDescription": "شاهد. تمرّن. عِش."
+  },
+  "nav": {
+    "features": "الميزات",
+    "pricing": "الأسعار",
+    "download": "تنزيل",
+    "community": "المجتمع",
+    "support": "الدعم",
+    "signin": "تسجيل الدخول / FTOT ID"
+  },
+  "hero": {
+    "title": "نيبولا — شاهد. تمرّن. عِش.",
+    "subtitle": "منصة موحدة للرياضة.",
+    "ctaPrimary": "تنزيل",
+    "ctaSecondary": "عرض الخطط",
+    "badges": [
+      "Apple Vision",
+      "Apple TV",
+      "iOS",
+      "Android",
+      "Apple Watch",
+      "Garmin",
+      "Samsung Watch"
+    ]
+  },
+  "what": {
+    "title": "ما هي نيبولا",
+    "cards": [
+      {
+        "title": "مشاهدة",
+        "desc": "بث AR/VR."
+      },
+      {
+        "title": "تدريب",
+        "desc": "خطط وتتبع وتحليلات."
+      },
+      {
+        "title": "عيش",
+        "desc": "تغذية وتعافٍ ومجتمع."
+      }
+    ]
+  },
+  "features": {
+    "title": "الميزات",
+    "items": [
+      "بث AR/VR",
+      "معلّق بالذكاء الاصطناعي",
+      "مساعد بالذكاء الاصطناعي",
+      "التغذية",
+      "التدريبات",
+      "المجتمع",
+      "التكاملات",
+      "إمكانية الوصول"
+    ]
+  },
+  "pricing": {
+    "title": "الأسعار",
+    "plans": [
+      {
+        "name": "Lite",
+        "price": "990₽"
+      },
+      {
+        "name": "Pro",
+        "price": "2 490₽"
+      },
+      {
+        "name": "Travel",
+        "price": "3 990₽"
+      },
+      {
+        "name": "Elite",
+        "price": "8 990₽"
+      },
+      {
+        "name": "Infinity",
+        "price": "16 990₽"
+      }
+    ],
+    "cta": "اختر الخطة"
+  },
+  "devices": {
+    "title": "الأجهزة المدعومة",
+    "items": [
+      "Apple Vision",
+      "Apple TV",
+      "iPhone",
+      "iPad",
+      "Apple Watch",
+      "Garmin",
+      "Samsung Watch",
+      "Android"
+    ]
+  },
+  "ftot": {
+    "title": "FTOT ID",
+    "start": "اختر الطريقة",
+    "email": "البريد الإلكتروني",
+    "phone": "الهاتف",
+    "or": "أو",
+    "oauth": "المتابعة عبر",
+    "continue": "متابعة",
+    "otpTitle": "التحقق من الرمز",
+    "passwordTitle": "إنشاء كلمة مرور",
+    "twofaTitle": "إعداد 2FA (موصى به)",
+    "doneTitle": "تم",
+    "submit": "إرسال",
+    "verify": "تحقق",
+    "back": "رجوع"
+  },
+  "ecosystem": {
+    "title": "منظومة TFOT Labs"
+  },
+  "footer": {
+    "product": "المنتج",
+    "company": "الشركة",
+    "support": "الدعم",
+    "legal": "قانوني",
+    "privacy": "سياسة الخصوصية",
+    "terms": "شروط الاستخدام",
+    "cookies": "سياسة الكوكيز",
+    "refund": "سياسة الاسترجاع",
+    "a11y": "بيان إمكانية الوصول",
+    "copyright": "© {{year}} Nebula — منتج من TFOT Labs. جميع الحقوق محفوظة."
+  }
+}

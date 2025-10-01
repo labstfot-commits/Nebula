@@ -1,0 +1,22 @@
+"use strict";
+/*
+ * ATTENTION: An "eval-source-map" devtool has been used.
+ * This devtool is neither made for production nor for readable output files.
+ * It uses "eval()" calls to create a separate source file with attached SourceMaps in the browser devtools.
+ * If you are trying to read the output file, select a different devtool (https://webpack.js.org/configuration/devtool/)
+ * or disable the default devtool with "devtool: false".
+ * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
+ */
+self["webpackHotUpdate_N_E"]("pages/_app",{
+
+/***/ "./locales/en.json":
+/*!*************************!*\
+  !*** ./locales/en.json ***!
+  \*************************/
+/***/ (function(module, __unused_webpack_exports, __webpack_require__) {
+
+module.exports = /*#__PURE__*/JSON.parse('{"seo":{"metaTitle":"Nebula — sports metaverse","metaDescription":"Watch. Train. Live. AR/VR streams, AI assistant, community."},"nav":{"features":"Features","pricing":"Pricing","download":"Download","community":"Community","support":"Support","signin":"Sign in / FTOT ID"},"hero":{"title":"Nebula — Watch. Train. Live.","subtitle":"Unified platform for sports and active life.","ctaPrimary":"Download Free","ctaSecondary":"See Plans","badges":["Apple Vision","Apple TV","iOS","Android","Apple Watch","Garmin","Samsung Watch"]},"what":{"title":"What is Nebula","cards":[{"title":"Watch","desc":"AR/VR match and event streams."},{"title":"Train","desc":"Plans, tracking, analytics."},{"title":"Live","desc":"Nutrition, recovery, community."}]},"features":{"title":"Features","items":["AR/VR streams","AI commentator","AI assistant","Nutrition","Training","Community","Integrations","Accessibility"]},"pricing":{"title":"Pricing","plans":[{"name":"Lite","price":"990₽","description":"Perfect for casual users. Access to basic AR/VR streams and community features.","features":["Basic AR/VR streams","Community access","Mobile app"]},{"name":"Pro","price":"2 490₽","description":"Ideal for active sports enthusiasts. Enhanced features and premium content.","features":["All Lite features","Premium AR/VR streams","AI assistant","Training plans","Nutrition tracking"]},{"name":"Travel","price":"3 990₽","description":"Perfect for travelers and remote workers. Access your content anywhere.","features":["All Pro features","Offline downloads","Global access","Travel mode","Multi-device sync"]},{"name":"Elite","price":"8 990₽","description":"Professional athlete package. Maximum performance and analytics.","features":["All Travel features","Advanced analytics","Professional training","Priority support","Custom integrations"]},{"name":"Infinity","price":"16 990₽","description":"Ultimate experience. Everything included plus exclusive premium content.","features":["All Elite features","Exclusive content","VIP events","Personal coach","Lifetime updates"]}],"cta":"Choose Plan","payNow":"Pay Now","close":"Close"},"devices":{"title":"Supported devices","items":["visionOS","tvOS","iOS","watchOS","Garmin OS","Tizen / Wear OS","Android","Windows","macOS"]},"ftot":{"title":"FTOT ID","start":"Choose sign-in method","email":"Email","phone":"Phone","or":"or","oauth":"Continue with","continue":"Continue","otpTitle":"Code verification","passwordTitle":"Create password","twofaTitle":"Set up 2FA (recommended)","doneTitle":"Done","submit":"Submit","verify":"Verify","back":"Back"},"ecosystem":{"title":"TFOT Labs ecosystem"},"footer":{"product":"Product","company":"Company","support":"Support","legal":"Legal","privacy":"Privacy Policy","terms":"Terms of Use","cookies":"Cookie Policy","refund":"Refund Policy","a11y":"Accessibility Statement","copyright":"© {{year}} Nebula — a TFOT Labs product. All rights reserved."}}');
+
+/***/ })
+
+});

@@ -1,0 +1,129 @@
+{
+  "seo": {
+    "metaTitle": "Nebula — 스포츠 메타버스",
+    "metaDescription": "보고, 훈련하고, 살아가다."
+  },
+  "nav": {
+    "features": "기능",
+    "pricing": "요금제",
+    "download": "다운로드",
+    "community": "커뮤니티",
+    "support": "지원",
+    "signin": "로그인 / FTOT ID"
+  },
+  "hero": {
+    "title": "Nebula — 보고 훈련하고 살아가다",
+    "subtitle": "스포츠 통합 플랫폼.",
+    "ctaPrimary": "다운로드",
+    "ctaSecondary": "요금제 보기",
+    "badges": [
+      "Apple Vision",
+      "Apple TV",
+      "iOS",
+      "Android",
+      "Apple Watch",
+      "Garmin",
+      "Samsung Watch"
+    ]
+  },
+  "what": {
+    "title": "Nebula란?",
+    "cards": [
+      {
+        "title": "보기",
+        "desc": "AR/VR 스트림."
+      },
+      {
+        "title": "훈련",
+        "desc": "플랜, 추적, 분석."
+      },
+      {
+        "title": "살기",
+        "desc": "영양, 회복, 커뮤니티."
+      }
+    ]
+  },
+  "features": {
+    "title": "기능",
+    "items": [
+      "AR/VR 스트림",
+      "AI 해설",
+      "AI 어시스턴트",
+      "영양",
+      "훈련",
+      "커뮤니티",
+      "통합",
+      "접근성"
+    ]
+  },
+  "pricing": {
+    "title": "요금제",
+    "plans": [
+      {
+        "name": "Lite",
+        "price": "990₽"
+      },
+      {
+        "name": "Pro",
+        "price": "2 490₽"
+      },
+      {
+        "name": "Travel",
+        "price": "3 990₽"
+      },
+      {
+        "name": "Elite",
+        "price": "8 990₽"
+      },
+      {
+        "name": "Infinity",
+        "price": "16 990₽"
+      }
+    ],
+    "cta": "선택"
+  },
+  "devices": {
+    "title": "지원 기기",
+    "items": [
+      "Apple Vision",
+      "Apple TV",
+      "iPhone",
+      "iPad",
+      "Apple Watch",
+      "Garmin",
+      "Samsung Watch",
+      "Android"
+    ]
+  },
+  "ftot": {
+    "title": "FTOT ID",
+    "start": "방법 선택",
+    "email": "이메일",
+    "phone": "전화",
+    "or": "또는",
+    "oauth": "계속하기",
+    "continue": "계속",
+    "otpTitle": "코드 확인",
+    "passwordTitle": "비밀번호 생성",
+    "twofaTitle": "2FA 설정(권장)",
+    "doneTitle": "완료",
+    "submit": "제출",
+    "verify": "확인",
+    "back": "뒤로"
+  },
+  "ecosystem": {
+    "title": "TFOT Labs 생태계"
+  },
+  "footer": {
+    "product": "제품",
+    "company": "회사",
+    "support": "지원",
+    "legal": "법률",
+    "privacy": "개인정보처리방침",
+    "terms": "이용약관",
+    "cookies": "쿠키 정책",
+    "refund": "환불 정책",
+    "a11y": "접근성 성명",
+    "copyright": "© {{year}} Nebula — TFOT Labs 제품."
+  }
+}

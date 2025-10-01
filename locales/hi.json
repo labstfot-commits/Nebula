@@ -1,0 +1,129 @@
+{
+  "seo": {
+    "metaTitle": "Nebula — खेल मेटावर्स",
+    "metaDescription": "देखें. ट्रेन करें. जिएं."
+  },
+  "nav": {
+    "features": "फीचर्स",
+    "pricing": "मूल्य",
+    "download": "डाउनलोड",
+    "community": "समुदाय",
+    "support": "सपोर्ट",
+    "signin": "साइन इन / FTOT ID"
+  },
+  "hero": {
+    "title": "Nebula — देखें. ट्रेन करें. जिएं.",
+    "subtitle": "खेल के लिए एकीकृत प्लेटफ़ॉर्म.",
+    "ctaPrimary": "डाउनलोड",
+    "ctaSecondary": "प्लान देखें",
+    "badges": [
+      "Apple Vision",
+      "Apple TV",
+      "iOS",
+      "Android",
+      "Apple Watch",
+      "Garmin",
+      "Samsung Watch"
+    ]
+  },
+  "what": {
+    "title": "Nebula क्या है",
+    "cards": [
+      {
+        "title": "देखें",
+        "desc": "AR/VR स्ट्रीम्स."
+      },
+      {
+        "title": "ट्रेन करें",
+        "desc": "प्लान, ट्रैकिंग, एनालिटिक्स."
+      },
+      {
+        "title": "जिएं",
+        "desc": "पोषण, रिकवरी, समुदाय."
+      }
+    ]
+  },
+  "features": {
+    "title": "फीचर्स",
+    "items": [
+      "AR/VR स्ट्रीम्स",
+      "एआई कमेंटेटर",
+      "एआई असिस्टेंट",
+      "पोषण",
+      "ट्रेनिंग",
+      "समुदाय",
+      "इंटीग्रेशन",
+      "एक्सेसिबिलिटी"
+    ]
+  },
+  "pricing": {
+    "title": "मूल्य",
+    "plans": [
+      {
+        "name": "Lite",
+        "price": "990₽"
+      },
+      {
+        "name": "Pro",
+        "price": "2 490₽"
+      },
+      {
+        "name": "Travel",
+        "price": "3 990₽"
+      },
+      {
+        "name": "Elite",
+        "price": "8 990₽"
+      },
+      {
+        "name": "Infinity",
+        "price": "16 990₽"
+      }
+    ],
+    "cta": "प्लान चुनें"
+  },
+  "devices": {
+    "title": "समर्थित डिवाइस",
+    "items": [
+      "Apple Vision",
+      "Apple TV",
+      "iPhone",
+      "iPad",
+      "Apple Watch",
+      "Garmin",
+      "Samsung Watch",
+      "Android"
+    ]
+  },
+  "ftot": {
+    "title": "FTOT ID",
+    "start": "तरीका चुनें",
+    "email": "ईमेल",
+    "phone": "फोन",
+    "or": "या",
+    "oauth": "इसके साथ जारी रखें",
+    "continue": "जारी रखें",
+    "otpTitle": "कोड सत्यापन",
+    "passwordTitle": "पासवर्ड बनाएँ",
+    "twofaTitle": "2FA सेट करें (अनुशंसित)",
+    "doneTitle": "पूर्ण",
+    "submit": "भेजें",
+    "verify": "सत्यापित करें",
+    "back": "वापस"
+  },
+  "ecosystem": {
+    "title": "TFOT Labs पारिस्थितिकी तंत्र"
+  },
+  "footer": {
+    "product": "उत्पाद",
+    "company": "कंपनी",
+    "support": "सपोर्ट",
+    "legal": "कानूनी",
+    "privacy": "गोपनीयता नीति",
+    "terms": "उपयोग की शर्तें",
+    "cookies": "कुकी नीति",
+    "refund": "रिफंड नीति",
+    "a11y": "एक्सेसिबिलिटी",
+    "copyright": "© {{year}} Nebula — TFOT Labs का उत्पाद. सर्वाधिकार सुरक्षित."
+  }
+}

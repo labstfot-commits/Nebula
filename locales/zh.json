@@ -1,0 +1,129 @@
+{
+  "seo": {
+    "metaTitle": "Nebula — 体育元宇宙",
+    "metaDescription": "观看·训练·生活"
+  },
+  "nav": {
+    "features": "功能",
+    "pricing": "定价",
+    "download": "下载",
+    "community": "社区",
+    "support": "支持",
+    "signin": "登录 / FTOT ID"
+  },
+  "hero": {
+    "title": "Nebula — 观看·训练·生活",
+    "subtitle": "统一的体育平台。",
+    "ctaPrimary": "下载",
+    "ctaSecondary": "查看方案",
+    "badges": [
+      "Apple Vision",
+      "Apple TV",
+      "iOS",
+      "Android",
+      "Apple Watch",
+      "Garmin",
+      "Samsung Watch"
+    ]
+  },
+  "what": {
+    "title": "什么是 Nebula",
+    "cards": [
+      {
+        "title": "观看",
+        "desc": "AR/VR 直播。"
+      },
+      {
+        "title": "训练",
+        "desc": "计划、跟踪、分析。"
+      },
+      {
+        "title": "生活",
+        "desc": "营养、恢复、社区。"
+      }
+    ]
+  },
+  "features": {
+    "title": "功能",
+    "items": [
+      "AR/VR 直播",
+      "AI 解说",
+      "AI 助手",
+      "营养",
+      "训练",
+      "社区",
+      "集成",
+      "无障碍"
+    ]
+  },
+  "pricing": {
+    "title": "定价",
+    "plans": [
+      {
+        "name": "Lite",
+        "price": "990₽"
+      },
+      {
+        "name": "Pro",
+        "price": "2 490₽"
+      },
+      {
+        "name": "Travel",
+        "price": "3 990₽"
+      },
+      {
+        "name": "Elite",
+        "price": "8 990₽"
+      },
+      {
+        "name": "Infinity",
+        "price": "16 990₽"
+      }
+    ],
+    "cta": "选择方案"
+  },
+  "devices": {
+    "title": "支持的设备",
+    "items": [
+      "Apple Vision",
+      "Apple TV",
+      "iPhone",
+      "iPad",
+      "Apple Watch",
+      "Garmin",
+      "Samsung Watch",
+      "Android"
+    ]
+  },
+  "ftot": {
+    "title": "FTOT ID",
+    "start": "选择方式",
+    "email": "邮箱",
+    "phone": "手机",
+    "or": "或",
+    "oauth": "继续使用",
+    "continue": "继续",
+    "otpTitle": "验证码验证",
+    "passwordTitle": "创建密码",
+    "twofaTitle": "设置 2FA（推荐）",
+    "doneTitle": "完成",
+    "submit": "提交",
+    "verify": "验证",
+    "back": "返回"
+  },
+  "ecosystem": {
+    "title": "TFOT Labs 生态"
+  },
+  "footer": {
+    "product": "产品",
+    "company": "公司",
+    "support": "支持",
+    "legal": "法律",
+    "privacy": "隐私政策",
+    "terms": "使用条款",
+    "cookies": "Cookie 政策",
+    "refund": "退款政策",
+    "a11y": "无障碍声明",
+    "copyright": "© {{year}} Nebula — TFOT Labs 出品。保留所有权利."
+  }
+}

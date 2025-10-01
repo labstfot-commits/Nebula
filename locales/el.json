@@ -1,0 +1,129 @@
+{
+  "seo": {
+    "metaTitle": "Nebula — αθλητικό metaverse",
+    "metaDescription": "Δες. Προπονήσου. Ζήσε."
+  },
+  "nav": {
+    "features": "Δυνατότητες",
+    "pricing": "Τιμές",
+    "download": "Λήψη",
+    "community": "Κοινότητα",
+    "support": "Υποστήριξη",
+    "signin": "Σύνδεση / FTOT ID"
+  },
+  "hero": {
+    "title": "Nebula — Δες. Προπονήσου. Ζήσε.",
+    "subtitle": "Ενοποιημένη πλατφόρμα για τον αθλητισμό.",
+    "ctaPrimary": "Λήψη",
+    "ctaSecondary": "Δες τα πλάνα",
+    "badges": [
+      "Apple Vision",
+      "Apple TV",
+      "iOS",
+      "Android",
+      "Apple Watch",
+      "Garmin",
+      "Samsung Watch"
+    ]
+  },
+  "what": {
+    "title": "Τι είναι το Nebula",
+    "cards": [
+      {
+        "title": "Δες",
+        "desc": "Ροές AR/VR."
+      },
+      {
+        "title": "Προπονήσου",
+        "desc": "Πλάνα, παρακολούθηση, αναλύσεις."
+      },
+      {
+        "title": "Ζήσε",
+        "desc": "Διατροφή, αποκατάσταση, κοινότητα."
+      }
+    ]
+  },
+  "features": {
+    "title": "Δυνατότητες",
+    "items": [
+      "Ροές AR/VR",
+      "Σχολιαστής AI",
+      "Βοηθός AI",
+      "Διατροφή",
+      "Προπονήσεις",
+      "Κοινότητα",
+      "Ενσωματώσεις",
+      "Προσβασιμότητα"
+    ]
+  },
+  "pricing": {
+    "title": "Τιμές",
+    "plans": [
+      {
+        "name": "Lite",
+        "price": "990₽"
+      },
+      {
+        "name": "Pro",
+        "price": "2 490₽"
+      },
+      {
+        "name": "Travel",
+        "price": "3 990₽"
+      },
+      {
+        "name": "Elite",
+        "price": "8 990₽"
+      },
+      {
+        "name": "Infinity",
+        "price": "16 990₽"
+      }
+    ],
+    "cta": "Επιλογή πλάνου"
+  },
+  "devices": {
+    "title": "Υποστηριζόμενες συσκευές",
+    "items": [
+      "Apple Vision",
+      "Apple TV",
+      "iPhone",
+      "iPad",
+      "Apple Watch",
+      "Garmin",
+      "Samsung Watch",
+      "Android"
+    ]
+  },
+  "ftot": {
+    "title": "FTOT ID",
+    "start": "Επιλέξτε μέθοδο",
+    "email": "Email",
+    "phone": "Τηλέφωνο",
+    "or": "ή",
+    "oauth": "Συνέχεια με",
+    "continue": "Συνέχεια",
+    "otpTitle": "Επαλήθευση κωδικού",
+    "passwordTitle": "Δημιουργία κωδικού",
+    "twofaTitle": "Ρύθμιση 2FA (προτείνεται)",
+    "doneTitle": "Έτοιμο",
+    "submit": "Υποβολή",
+    "verify": "Επαλήθευση",
+    "back": "Πίσω"
+  },
+  "ecosystem": {
+    "title": "Οικοσύστημα TFOT Labs"
+  },
+  "footer": {
+    "product": "Προϊόν",
+    "company": "Εταιρεία",
+    "support": "Υποστήριξη",
+    "legal": "Νομικά",
+    "privacy": "Πολιτική Απορρήτου",
+    "terms": "Όροι Χρήσης",
+    "cookies": "Πολιτική Cookies",
+    "refund": "Πολιτική Επιστροφών",
+    "a11y": "Δήλωση Προσβασιμότητας",
+    "copyright": "© {{year}} Nebula — προϊόν της TFOT Labs. Με επιφύλαξη παντός δικαιώματος."
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "seo": {
+    "metaTitle": "Nebula — metaverso sportivo",
+    "metaDescription": "Guardare. Allenarsi. Vivere."
+  },
+  "nav": {
+    "features": "Funzioni",
+    "pricing": "Prezzi",
+    "download": "Scarica",
+    "community": "Community",
+    "support": "Supporto",
+    "signin": "Accedi / FTOT ID"
+  },
+  "hero": {
+    "title": "Nebula — Guardare. Allenarsi. Vivere.",
+    "subtitle": "Piattaforma unificata per lo sport.",
+    "ctaPrimary": "Scarica",
+    "ctaSecondary": "Vedi piani",
+    "badges": [
+      "Apple Vision",
+      "Apple TV",
+      "iOS",
+      "Android",
+      "Apple Watch",
+      "Garmin",
+      "Samsung Watch"
+    ]
+  },
+  "what": {
+    "title": "Cos’è Nebula",
+    "cards": [
+      {
+        "title": "Guardare",
+        "desc": "Stream AR/VR."
+      },
+      {
+        "title": "Allenarsi",
+        "desc": "Piani, tracking, analisi."
+      },
+      {
+        "title": "Vivere",
+        "desc": "Nutrizione, recupero, community."
+      }
+    ]
+  },
+  "features": {
+    "title": "Funzioni",
+    "items": [
+      "Stream AR/VR",
+      "Commentatore IA",
+      "Assistente IA",
+      "Nutrizione",
+      "Allenamenti",
+      "Community",
+      "Integrazioni",
+      "Accessibilità"
+    ]
+  },
+  "pricing": {
+    "title": "Prezzi",
+    "plans": [
+      {
+        "name": "Lite",
+        "price": "990₽"
+      },
+      {
+        "name": "Pro",
+        "price": "2 490₽"
+      },
+      {
+        "name": "Travel",
+        "price": "3 990₽"
+      },
+      {
+        "name": "Elite",
+        "price": "8 990₽"
+      },
+      {
+        "name": "Infinity",
+        "price": "16 990₽"
+      }
+    ],
+    "cta": "Scegli piano"
+  },
+  "devices": {
+    "title": "Dispositivi supportati",
+    "items": [
+      "Apple Vision",
+      "Apple TV",
+      "iPhone",
+      "iPad",
+      "Apple Watch",
+      "Garmin",
+      "Samsung Watch",
+      "Android"
+    ]
+  },
+  "ftot": {
+    "title": "FTOT ID",
+    "start": "Scegli metodo",
+    "email": "Email",
+    "phone": "Telefono",
+    "or": "oppure",
+    "oauth": "Continua con",
+    "continue": "Continua",
+    "otpTitle": "Verifica codice",
+    "passwordTitle": "Crea password",
+    "twofaTitle": "Configura 2FA (consigliato)",
+    "doneTitle": "Fatto",
+    "submit": "Invia",
+    "verify": "Verifica",
+    "back": "Indietro"
+  },
+  "ecosystem": {
+    "title": "Ecosistema TFOT Labs"
+  },
+  "footer": {
+    "product": "Prodotto",
+    "company": "Azienda",
+    "support": "Supporto",
+    "legal": "Legale",
+    "privacy": "Privacy",
+    "terms": "Termini d’uso",
+    "cookies": "Cookie",
+    "refund": "Rimborsi",
+    "a11y": "Accessibilità",
+    "copyright": "© {{year}} Nebula — un prodotto TFOT Labs. Tutti i diritti riservati."
+  }
+}

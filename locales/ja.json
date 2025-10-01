@@ -1,0 +1,129 @@
+{
+  "seo": {
+    "metaTitle": "Nebula — スポーツメタバース",
+    "metaDescription": "観る・鍛える・生きる"
+  },
+  "nav": {
+    "features": "機能",
+    "pricing": "料金",
+    "download": "ダウンロード",
+    "community": "コミュニティ",
+    "support": "サポート",
+    "signin": "サインイン / FTOT ID"
+  },
+  "hero": {
+    "title": "Nebula — 観る・鍛える・生きる",
+    "subtitle": "スポーツの統合プラットフォーム。",
+    "ctaPrimary": "ダウンロード",
+    "ctaSecondary": "プランを見る",
+    "badges": [
+      "Apple Vision",
+      "Apple TV",
+      "iOS",
+      "Android",
+      "Apple Watch",
+      "Garmin",
+      "Samsung Watch"
+    ]
+  },
+  "what": {
+    "title": "Nebula とは",
+    "cards": [
+      {
+        "title": "観る",
+        "desc": "AR/VR 配信。"
+      },
+      {
+        "title": "鍛える",
+        "desc": "計画、トラッキング、分析。"
+      },
+      {
+        "title": "生きる",
+        "desc": "栄養、回復、コミュニティ。"
+      }
+    ]
+  },
+  "features": {
+    "title": "機能",
+    "items": [
+      "AR/VR 配信",
+      "AI 解説",
+      "AI アシスタント",
+      "栄養",
+      "トレーニング",
+      "コミュニティ",
+      "連携",
+      "アクセシビリティ"
+    ]
+  },
+  "pricing": {
+    "title": "料金",
+    "plans": [
+      {
+        "name": "Lite",
+        "price": "990₽"
+      },
+      {
+        "name": "Pro",
+        "price": "2 490₽"
+      },
+      {
+        "name": "Travel",
+        "price": "3 990₽"
+      },
+      {
+        "name": "Elite",
+        "price": "8 990₽"
+      },
+      {
+        "name": "Infinity",
+        "price": "16 990₽"
+      }
+    ],
+    "cta": "プランを選ぶ"
+  },
+  "devices": {
+    "title": "対応デバイス",
+    "items": [
+      "Apple Vision",
+      "Apple TV",
+      "iPhone",
+      "iPad",
+      "Apple Watch",
+      "Garmin",
+      "Samsung Watch",
+      "Android"
+    ]
+  },
+  "ftot": {
+    "title": "FTOT ID",
+    "start": "方法を選択",
+    "email": "メール",
+    "phone": "電話",
+    "or": "または",
+    "oauth": "で続行",
+    "continue": "続行",
+    "otpTitle": "コード認証",
+    "passwordTitle": "パスワード作成",
+    "twofaTitle": "2FA 設定（推奨）",
+    "doneTitle": "完了",
+    "submit": "送信",
+    "verify": "確認",
+    "back": "戻る"
+  },
+  "ecosystem": {
+    "title": "TFOT Labs エコシステム"
+  },
+  "footer": {
+    "product": "製品",
+    "company": "会社",
+    "support": "サポート",
+    "legal": "法務",
+    "privacy": "プライバシー",
+    "terms": "利用規約",
+    "cookies": "Cookie ポリシー",
+    "refund": "返金ポリシー",
+    "a11y": "アクセシビリティ声明",
+    "copyright": "© {{year}} Nebula — TFOT Labs の製品。"
+  }
+}
