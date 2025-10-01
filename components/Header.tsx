@@ -38,7 +38,7 @@ export default function Header() {
       <div className="container flex items-center justify-between py-4">
         <div className="flex items-center gap-3">
           <Image
-            src="/nebula-logo.png"
+            src="/nebula-logoo.png"
             alt="Nebula logo"
             width={36}
             height={36}
@@ -47,11 +47,11 @@ export default function Header() {
           <span className="font-semibold">Nebula</span>
         </div>
         <nav className="hidden md:flex items-center gap-6 text-sm text-white/80">
-          <a href="#features" className="hover:text-white" aria-label="Features">{t('nav.features')}</a>
-          <a href="#pricing" className="hover:text-white" aria-label="Pricing">{t('nav.pricing')}</a>
-          <a href="#devices" className="hover:text-white" aria-label="Download">{t('nav.download')}</a>
-          <a href="#community" className="hover:text-white" aria-label="Community">{t('nav.community')}</a>
-          <a href="#support" className="hover:text-white" aria-label="Support">{t('nav.support')}</a>
+          <a href="/Nebula/#features" className="hover:text-white" aria-label="Features">{t('nav.features')}</a>
+          <a href="/Nebula/#pricing" className="hover:text-white" aria-label="Pricing">{t('nav.pricing')}</a>
+          <a href="/Nebula/#devices" className="hover:text-white" aria-label="Download">{t('nav.download')}</a>
+          <a href="/Nebula/#community" className="hover:text-white" aria-label="Community">{t('nav.community')}</a>
+          <a href="/Nebula/#support" className="hover:text-white" aria-label="Support">{t('nav.support')}</a>
         </nav>
         <div className="flex items-center gap-3">
           <select

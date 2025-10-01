@@ -11,7 +11,7 @@ export default function Footer() {
         <div className="md:col-span-2 space-y-3">
           <div className="flex items-center gap-3">
             <Image
-              src="/nebula-logo.png"
+              src="/nebula-logoo.png"
               alt="Nebula logo"
               width={32}
               height={32}
@@ -33,22 +33,22 @@ export default function Footer() {
         <div>
           <div className="font-medium mb-3">{t('footer.product')}</div>
           <ul className="space-y-2 text-white/70 text-sm">
-            <li><a href="#features">{t('nav.features')}</a></li>
-            <li><a href="#pricing">{t('nav.pricing')}</a></li>
-            <li><a href="#download">{t('nav.download')}</a></li>
+            <li><a href="/Nebula/#features">{t('nav.features')}</a></li>
+            <li><a href="/Nebula/#pricing">{t('nav.pricing')}</a></li>
+            <li><a href="/Nebula/#download">{t('nav.download')}</a></li>
           </ul>
         </div>
         <div>
           <div className="font-medium mb-3">{t('footer.company')}</div>
           <ul className="space-y-2 text-white/70 text-sm">
-            <li><a href="#community">{t('nav.community')}</a></li>
+            <li><a href="/Nebula/#community">{t('nav.community')}</a></li>
           </ul>
         </div>
         <div>
           <div className="font-medium mb-3">{t('footer.support')}</div>
           <ul className="space-y-2 text-white/70 text-sm">
-            <li><a href="#support">{t('footer.a11y')}</a></li>
-            <li><a href="#support">{t('footer.refund')}</a></li>
+            <li><a href="/Nebula/#support">{t('footer.a11y')}</a></li>
+            <li><a href="/Nebula/#support">{t('footer.refund')}</a></li>
           </ul>
         </div>
       </div>

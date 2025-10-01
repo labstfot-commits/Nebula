@@ -2,21 +2,19 @@
 const nextConfig = {
   reactStrictMode: true,
 
+  // Static export configuration for GitHub Pages
+  output: 'export',
+  trailingSlash: true,
+  distDir: 'dist',
+  basePath: '/Nebula',
+
   // Performance optimizations
   swcMinify: true,
   compress: true,
 
-  // Image optimization
+  // Image optimization - disabled for static export
   images: {
-    formats: ['image/webp', 'image/avif'],
-    deviceSizes: [640, 750, 828, 1080, 1200, 1920, 2048, 3840],
-    imageSizes: [16, 32, 48, 64, 96, 128, 256, 384],
-    minimumCacheTTL: 60,
-    remotePatterns: [
-      { protocol: 'https', hostname: 'images.unsplash.com' },
-      { protocol: 'https', hostname: 'images.pexels.com' },
-    ],
-    unoptimized: process.env.NODE_ENV === 'development',
+    unoptimized: true,
   },
 
   // Bundle analyzer (optional, install @next/bundle-analyzer if needed)
@@ -48,25 +46,6 @@ const nextConfig = {
     })
 
     return config
-  },
-
-  // Headers for better caching
-  async headers() {
-    return [
-      {
-        source: '/(.*)',
-        headers: [
-          {
-            key: 'X-Frame-Options',
-            value: 'DENY',
-          },
-          {
-            key: 'X-Content-Type-Options',
-            value: 'nosniff',
-          },
-        ],
-      },
-    ]
   },
 }
 

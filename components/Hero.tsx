@@ -57,7 +57,7 @@ export default function Hero() {
           >
             {downloading ? 'Загрузка...' : t('hero.ctaPrimary')}
           </button>
-          <a href="#pricing" className="btn-secondary">{t('hero.ctaSecondary')}</a>
+          <a href="/Nebula/#pricing" className="btn-secondary">{t('hero.ctaSecondary')}</a>
         </div>
         <div className="flex flex-wrap items-center justify-center gap-2 text-xs text-white/70">
           {(t('hero.badges', { returnObjects: true }) as string[])?.map((b: string) => (
