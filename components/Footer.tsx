@@ -11,7 +11,7 @@ export default function Footer() {
         <div className="md:col-span-2 space-y-3">
           <div className="flex items-center gap-3">
             <Image
-              src="/nebula-logoo.png"
+              src="/Nebula/nebula-logoo.svg"
               alt="Nebula logo"
               width={32}
               height={32}
@@ -21,7 +21,7 @@ export default function Footer() {
           </div>
           <Link href="https://labstfot-commits.github.io/TFOT-Labs/" target="_blank" className="inline-flex items-center gap-2 text-white/80">
             <Image
-              src="/TFOT-Labs-logo.png"
+              src="/Nebula/TFOT-Labs-logo.png"
               alt="TFOT Labs"
               width={28}
               height={28}

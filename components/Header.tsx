@@ -38,7 +38,7 @@ export default function Header() {
       <div className="container flex items-center justify-between py-4">
         <div className="flex items-center gap-3">
           <Image
-            src="/nebula-logoo.png"
+            src="/Nebula/nebula-logoo.svg"
             alt="Nebula logo"
             width={36}
             height={36}
